@@ -1,4 +1,5 @@
-# Add new 2024/11
+# version 1.1
+# Add new 2024/12
 #
 import yfinance as yf
 import pandas as pd
