@@ -1,4 +1,4 @@
-# version 1.1
+# version 1.2
 # Add new 2024/12
 #
 import yfinance as yf
