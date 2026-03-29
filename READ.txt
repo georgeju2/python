@@ -1,0 +1,7 @@
+
+python 3.11 venv:
+    ~/projects/venv311
+
+latest project:
+    ~/projects/boj_holding
+    C:\Users\georg\projects\boj_holdings
